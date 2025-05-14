@@ -58,7 +58,7 @@ http://localhost
 | Servicio   | Puerto Host | Descripción                   |
 |------------|-------------|-------------------------------|
 | NGINX      | 80          | Servidor web estático         |
-| PostgreSQL | 5432        | Base de datos relacional      |
+| PostgreSQL | 5353        | Base de datos relacional      |
 
 ---
 
