@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  contenedor1:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "53:53"
+    volumes:
+      - ./web/:/usr/share/nginx/html:ro
